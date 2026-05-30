@@ -1,0 +1,10 @@
+{
+    "name": "blu-addon",
+    "description": "Dodatek Bluetooth",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts"
+    ]
+}
